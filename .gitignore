@@ -1,0 +1,7 @@
+cat > .gitignore << 'EOF'
+venv/
+__pycache__/
+*.pyc
+master.xlsx
+descriptor_cache.csv
+EOF

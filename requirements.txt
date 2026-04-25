@@ -1,0 +1,10 @@
+streamlit
+plotly
+xgboost
+scikit-learn
+mordred
+rdkit
+pandas
+openpyxl
+numpy
+requests
